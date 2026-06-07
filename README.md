@@ -158,7 +158,7 @@ This template is the foundation for:
 
 - **ResellerOS** — resale inventory and marketplace management
 - **Aegis** — monitoring and alerting platform
-- **PAWSitiveOps** — pet care operations system
+- **PackGuardian** — compliance tracker for pet facilities
 
 Every app built on JBFastMVP inherits the same infrastructure, deployment pattern, and conventions.
 
